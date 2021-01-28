@@ -5,6 +5,7 @@ solução ficou mais robusta? Justifique. </h3>
 Sim uma vez que, o método transferir depende do método consultar que foi alterado para 
 <br><br><br>	
 <h3> 12. Descreva e justifique o que acontece no método main abaixo: </h3>
+
 ```
 public class Teste {
   public static void main(String args[]) {
@@ -22,6 +23,7 @@ public class Teste {
     }
 }
 ```
+
 O bloco try possui uma RuntimeException o que faz com que o bloco catch lance as exceções com o print seguido de "ABC".
 <br><br><br>	
 <h3>13. Sobre exceções, responda:
