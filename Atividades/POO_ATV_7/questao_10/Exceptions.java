@@ -11,7 +11,7 @@ public class Exceptions {
         } catch (NullPointerException e) {
             System.out.println("String nula!");
         } catch (Exception e) {
-            System.out.println("Ocorreu alguma excessao!");
+            System.out.println("Ocorreu alguma excecao!");
         } finally {
             System.out.println("Finally!");
         }  
