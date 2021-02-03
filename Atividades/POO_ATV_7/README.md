@@ -2,7 +2,7 @@
 <br><br><br>	
 <h3> 7. Após a alteração anterior, o método transferir também está “validado”? Por que? A
 solução ficou mais robusta? Justifique. </h3>
-Sim uma vez que, o método transferir depende do método consultar que foi alterado para 
+Sim uma vez que, o método transferir depende do método consultar que foi alterado para suportar exceções.
 <br><br><br>	
 <h3> 12. Descreva e justifique o que acontece no método main abaixo: </h3>
 
